@@ -117,7 +117,7 @@ The entire crew organizes for a desperate struggle to put out the fire. That is 
 
 ## Example ships
 
-| Ship | Speed| Per Naval Turn | Normal Turn Steps | Min Crew | AC | HP | DT |
-| :--- | ---: | ---: | :---: | :---: | :---: | :---: | ---: | :---: |
+| Ship | Speed | Per Naval Turn | Normal Turn Steps | Min Crew | AC | HP | DT |
+| :--- | ---: | ---: | :---: | :---: | :---: | ---: | :---: |
 | Pirate Cog | 3 mph | 264’ | 1 | 5 | 15 | 300 | 20 |
 | *Fast* Sloop | 10 mph | 880’ | 1 | 3 | 12 | 150 | 15 |
