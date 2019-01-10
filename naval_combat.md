@@ -20,7 +20,11 @@ If one vessel is able to get close to another without being detected (e.g. runni
 
 ### Placing Ships for Naval Combat
 
+Using the actions and maneuver rules below, there are likely only a few naval turns of actions that will be interesting. The DM should place the ships so that they could close in a couple naval turns, depending on maneuvers. Then begin the naval combat sequence.
 
+### Ending an Encounter
+
+The encounter ends when the PC's ship is clearly pulling away from the encounter and out of danger or when any combat is clearly ended via surrender, TPK, or sinking.
 
 ## Naval Combat Sequence
 
@@ -127,7 +131,7 @@ As described above, unless a ship succeeds in a "Steady as she goes." action, al
 
 While the ships of Faerûn do not have rows of cannons, magic provides an effective equivalent. In particular, fire can be nasty on a ship. Remember that each vessel has a damage threshold for each attack that must be met or exceeded before the ship takes the damage. Almost all ships are **immune** to **necrotic**, **poison**, and **psychic** damage, **resistant** to **piercing** damage, and **vulnerable** to **fire** damage.
 
-If a ship takes fire or lightning damage, from a single attack, that is double its damage threshold or more, it catches fire. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost. If a ship catches fire from more than one attack, it cannot be saved.
+If a ship takes **fire** or **lightning** damage, from a single attack, that is double its damage threshold or more, it catches fire. It's an intentional decision for most ships bo be vulnerable to fire, but for fire *and* lightning to be capable of starting fires. It means it's easier for fire attacks to meet the damage threshold. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost. If a ship catches fire from more than one attack, it cannot be saved.
 
 These rules do not go into great detail on the effects of damage to a ship. At 0 hp, a ship slows to 0' or zero hexes per naval turn and begins to sink. When a ship falls below half its starting hp, the Broad Reach, Fast Rig, and "Hard to..." actions are no longer available to its crew.
 
