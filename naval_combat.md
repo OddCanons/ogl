@@ -105,13 +105,15 @@ As described above, unless a ship succeeds in a "Steady as she goes." action, al
 
 ### Targeting ships
 
-While the ships of Faerûn do not have rows of cannons, magic provides an effective equivalent. In particular, fire can be nasty on a ship. Remember that each vessel has a damage threshold for each attack that must be met or exceeded before the ship takes the damage.
+While the ships of Faerûn do not have rows of cannons, magic provides an effective equivalent. In particular, fire can be nasty on a ship. Remember that each vessel has a damage threshold for each attack that must be met or exceeded before the ship takes the damage. Almost all ships are **immune** to **necrotic**, **poison**, and **psychic** damage, **resistant** to **piercing** damage, and **vulnerable** to **fire** damage.
 
-These rules do not go into great detail on the effects of damage to a ship. At 0 hp, a ship slows to 0' or zero hexes per naval turn and begins to sink. When a ship falls below half its starting hp, the Broad Reach, Fast Rig, and "Hard to..." actions are no longer available to its crew. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost.
+If a ship takes fire or lightning damage, from a single attack, that is double its damage threshold or more, it catches fire. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost. If a ship catches fire from more than one attack, it cannot be saved.
+
+These rules do not go into great detail on the effects of damage to a ship. At 0 hp, a ship slows to 0' or zero hexes per naval turn and begins to sink. When a ship falls below half its starting hp, the Broad Reach, Fast Rig, and "Hard to..." actions are no longer available to its crew.
 
 ### "Fight that fire!" (DC 20)
 
-The entire crew organizes for a desperate struggle to put out that fire. That is all any crew member can do this turn, unless they are already engaged in melee combat. If the fire is put out, the battle resumes as normal. If not, the crew begins abandoning ship in the next naval turn. No more orders may be given on the ship.
+The entire crew organizes for a desperate struggle to put out the fire. That is all any of the crew member can do this turn, unless they are already engaged in melee combat. The minimum crew complement for the vessel must be available for the action. If the action is successful, the ship takes damage equal to the number of hp it lost to the attack that caused the fire and then the fire is put out and the battle resumes as normal. If not, the crew begins abandoning ship. No more orders may be given on the ship.
 
 ## Example ships
 
