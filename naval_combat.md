@@ -1,6 +1,26 @@
 # Naval Combat
 
-These rules were developed for the author's alternate beginning to *Tomb of Annihilation*. The party begins in Moonshae. Lady Erliza is the patron for their quest. The PCs take the *Brazen Pegasus* from the harbor at Westphal to Port Nyanzaru, choosing how close they want to sail to the Nelanthar Isles which are a known haven for pirates. When the pirates attacked, we setup the two ships on a hex grid and played the rounds by these rules. They look a bit fiddly, but everything plays smoothly if you keep track of the rounds on some version of the ship movement table.
+These rules were developed for the author's alternate beginning to *Tomb of Annihilation*. The party begins in Moonshae. Lady Erliza is the patron for their quest. The PCs take the *Brazen Pegasus* from the harbor at Westphal to Port Nyanzaru, choosing how close they want to sail to the Nelanthar Isles which are a known haven for pirates. When the pirates attacked, we setup the two ships on a hex grid and played the rounds by these rules. They look a bit fiddly, but everything plays smoothly if you keep track of the rounds on some version of the ship movement table. Any other overhead comes only once each 10 rounds.
+
+## Naval Encounters
+
+Oceans and seas are vast places. Random encounters are unlikely outside of hot spots closer to shore or known trade routes. Encounters should make sense and be part of the narrative. Being attacked by pirates while skirting the Nelanthar Isles, for example, would make a lot of sense. Bumping into another ship off the known trade routes should be reserved for when both parties have a narrative-driven reason to be in the same place. One such reason may be that PCs or NPCs have access to spells or magic items that allow them to track another vessel, one or more members of its crew, or some item aboard it.
+
+### Seeing Other Ships
+
+On a clear day, a ship that has posted a watch will spot other ships within four miles, seven miles if the watch is in a crow's nest. The same is true at night, assuming the other ship is running with any lighting. At the DM's discretion, this may be subject to a test for the crew's discipline. Any other factors, like natural or supernatural weather or ships using magic to hide, are up to the DM. If no watch is posted, use passive perception for the crew as the other vessel approaches, modifying for vessel size and relative closing speed.
+
+### Giving Chase
+
+Should two (or more) vessels want to approach once they have seen each other, they can do so. It is up to the DM to place the ships on the board, relative to each other and the wind, prior to entering naval combat.
+
+### Surprise
+
+If one vessel is able to get close to another without being detected (e.g. running dark with magical fog in the night), it is up to the DM to place the ships on the board, relative to each other and the wind, prior to entering naval combat.
+
+### Placing Ships for Naval Combat
+
+
 
 ## Naval Combat Sequence
 
