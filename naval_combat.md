@@ -1,6 +1,30 @@
 # Naval Combat
 
-These rules were developed for the author's alternate beginning to *Tomb of Annihilation*. The party begins in Moonshae. Lady Erliza is the patron for their quest. The PCs take the *Brazen Pegasus* from the harbor at Westphal to Port Nyanzaru, choosing how close they want to sail to the Nelanthar Isles which are a known haven for pirates. When the pirates attacked, we setup the two ships on a hex grid and played the rounds by these rules. They look a bit fiddly, but everything plays smoothly if you keep track of the rounds on some version of the ship movement table.
+These rules were developed for the author's alternate beginning to *Tomb of Annihilation*. The party begins in Moonshae. Lady Erliza is the patron for their quest. The PCs take the *Brazen Pegasus* from the harbor at Westphal to Port Nyanzaru, choosing how close they want to sail to the Nelanthar Isles which are a known haven for pirates. When the pirates attacked, we setup the two ships on a hex grid and played the rounds by these rules. They look a bit fiddly, but everything plays smoothly if you keep track of the rounds on some version of the ship movement table. Any other overhead comes only once each 10 rounds.
+
+## Naval Encounters
+
+Oceans and seas are vast places. Random encounters are unlikely outside of hot spots closer to shore or known trade routes. Encounters should make sense and be part of the narrative. Being attacked by pirates while skirting the Nelanthar Isles, for example, would make a lot of sense. Bumping into another ship off the known trade routes should be reserved for when both parties have a narrative-driven reason to be in the same place. One such reason may be that PCs or NPCs have access to spells or magic items that allow them to track another vessel, one or more members of its crew, or some item aboard it.
+
+### Seeing Other Ships
+
+On a clear day, a ship that has posted a watch will spot other ships within four miles, seven miles if the watch is in a crow's nest. The same is true at night, assuming the other ship is running with any lighting. At the DM's discretion, this may be subject to a test for the crew's discipline. Any other factors, like natural or supernatural weather or ships using magic to hide, are up to the DM. If no watch is posted, use passive perception for the crew as the other vessel approaches, modifying for vessel size and relative closing speed.
+
+### Giving Chase
+
+Should two (or more) vessels want to approach once they have seen each other, they can do so. It is up to the DM to place the ships on the board, relative to each other and the wind, prior to entering naval combat.
+
+### Surprise
+
+If one vessel is able to get close to another without being detected (e.g. running dark with magical fog in the night), it is up to the DM to place the ships on the board, relative to each other and the wind, prior to entering naval combat.
+
+### Placing Ships for Naval Combat
+
+Using the actions and maneuver rules below, there are likely only a few naval turns of actions that will be interesting. The DM should place the ships so that they could close in a couple naval turns, depending on maneuvers. Then begin the naval combat sequence.
+
+### Ending an Encounter
+
+The encounter ends when the PC's ship is clearly pulling away from the encounter and out of danger or when any combat is clearly ended via surrender, TPK, or sinking.
 
 ## Naval Combat Sequence
 
@@ -107,7 +131,7 @@ As described above, unless a ship succeeds in a "Steady as she goes." action, al
 
 While the ships of Faerûn do not have rows of cannons, magic provides an effective equivalent. In particular, fire can be nasty on a ship. Remember that each vessel has a damage threshold for each attack that must be met or exceeded before the ship takes the damage. Almost all ships are **immune** to **necrotic**, **poison**, and **psychic** damage, **resistant** to **piercing** damage, and **vulnerable** to **fire** damage.
 
-If a ship takes fire or lightning damage, from a single attack, that is double its damage threshold or more, it catches fire. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost. If a ship catches fire from more than one attack, it cannot be saved.
+If a ship takes **fire** or **lightning** damage, from a single attack, that is double its damage threshold or more, it catches fire. It's an intentional decision for most ships bo be vulnerable to fire, but for fire *and* lightning to be capable of starting fires. It means it's easier for fire attacks to meet the damage threshold. If a ship catches fire, the officers get one attempt at a fire fighting naval action at the beginning of the next naval turn. If they attempt the action, it is the only action they can try that turn. If it fails, the crew begin to jump overboard and the ship will be lost. If a ship catches fire from more than one attack, it cannot be saved.
 
 These rules do not go into great detail on the effects of damage to a ship. At 0 hp, a ship slows to 0' or zero hexes per naval turn and begins to sink. When a ship falls below half its starting hp, the Broad Reach, Fast Rig, and "Hard to..." actions are no longer available to its crew.
 
