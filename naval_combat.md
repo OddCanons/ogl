@@ -145,3 +145,25 @@ The entire crew organizes for a desperate struggle to put out the fire. That is 
 | :--- | ---: | ---: | :---: | :---: | :---: | ---: | :---: |
 | Pirate Cog | 3 mph | 264’ | 1 | 5 | 15 | 300 | 20 |
 | *Fast* Sloop | 10 mph | 880’ | 1 | 3 | 12 | 150 | 15 |
+
+### Pirate Cog move reference table in hexes
+
+*When using hexes, round down, except treat 0.5 to 0.9 as 1.0.*
+
+| Rigged | Base, In Feet |  Running | Broad Reach | "Broad Reach" Action | Beam | Close Reach | Close Hauled | In Irons |
+| :--- | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Full | 264' | 1.8 | 2.6 | **3.0** | 2.0 | 1.6 | 1.3 | 0.0 |
+| Half | 132' | 0.9 | 1.3 | | 1.0 | 0.8 | 0.7 | 0.0 |
+| Quarter | 66' | 0.5 | 0.7 | | 0.5 | 0.4 | 0.3 | 0.0 |
+| Stop | 0' | 0.0 | 0.0 | | 0.0 | 0.0 | 0.0 | 0.0 |
+
+### *Fast* Sloop move reference table in hexes
+
+*When using hexes, round down, except treat 0.5 to 0.9 as 1.0.*
+
+| Rigged | Base, In Feet |  Running | Broad Reach | "Broad Reach" Action | Beam | Close Reach | Close Hauled | In Irons |
+| :--- | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Full | 880' | 6.2 | 8.8 | **9.7** | 6.6 | 5.3 | 4.4 | 0.0 |
+| Half | 440' | 3.1 | 4.4 | | 3.3 | 2.6 | 2.2 | 0.0 |
+| Quarter | 220' | 2.2 | 0.7 | | 1.7 | 1.3 | 1.1 | 0.0 |
+| Stop | 0' | 0.0 | 0.0 | | 0.0 | 0.0 | 0.0 | 0.0 |
