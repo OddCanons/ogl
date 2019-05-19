@@ -40,19 +40,42 @@ For more Lovecraftian horror-themed campaigns we add:
 That's about as far as the official options can take us into a gritty world. We'll have to make our own trail from here. This section introduces more optional/house rules that build on the optional rules from the DMG and XGtE.
 
 ## Skill-based Healing
-In addition to the **Healer's Kit Dependency**, a character can't spend any Hit Dice to heal after finishing a short rest, unless someone makes a successful Wisdom (Medicine) check. Only one check is allowed per short rest. The check is made with disadvantage if the character is _poisoned_. The DC of the check depends on the current hit points of the character relative to their max hit points.
 
-| Relative Hit Points | DC of Medicine Check |
+In addition to the **Healer's Kit Dependency**, a character can't spend any Hit Dice to heal after finishing a short rest, unless someone makes a successful Wisdom (Medicine) check. Only one check is allowed per character wishing to heal per short rest. The check is made with disadvantage if the character is _poisoned_. The DC of the check depends on the current hit points of the character relative to their max hit points.
+
+| Relative Hit Points | DC of Wisdowm (Medicine) Check |
 | ------------------- | -------------------- |
 | >= 1/2 | 10 |
 | < 1/2 | 15 |
 
-If there is no healer's kit available, a character may make a separate Wisdom (Survival) check to find materials nearby to substitute for the healing kit before the attempt to heal is made. The DC of the check is 10 if the person making the check is familiar with the surrounding flora or if the check is made in relatively civilized surroundings (e.g an enemy camp). The DC increases for unfamiliar or inhospitable territory.
+## Skill-based First Aid
 
-## First Aid
+Stabilizing a character at 0 hit points _always_ requires a Wisdom (Medicine) check. The DC is 10 if the character has a healer's kit. It is 15 if the character does not have access to a healer's kit.
 
+## Improvised Healer's Kit
 
-## Stays Down
+If there is no healer's kit available, a character may make a separate Wisdom (Survival) check to search for materials nearby to substitute for the healer's kit before an attempt to heal is made. The DC of the check is 10 if the person making the check is familiar with the surrounding flora or if the check is made in relatively civilized surroundings (e.g an enemy camp). The DC increases for unfamiliar or inhospitable territory. A successful search takes 10 minutes, minus the amount the character succeeded the check by, to a minimum of 1 minute. A failed search takes 10 minutes. It is assumed that any improvised or plant-based alternatives will not last and so must be found when needed. Given the likely length of a search, this part of the rule is expected to be much more useful during a short rest than to help with stabilizing a character.
 
+## Stable to Weak
+
+If played by the rules, the **stable** condition already provides for much of what is needed for grittier near death outcomes. Unless characters have access to magical or divine healing, there is no way to avoid being unconscious for 1d4 hours before regaining exactly 1 hit point. This rule builds on the **stable** condition to prevent characters from jumping up at full fighting capacity with just a little magical healing while still allowing for major healing effects to result in heroic outcomes.
+
+A character that is magically healed from 0 hit points loses the **stable** condition, if they had it, and gains the **weak** condition. If that magical healing or later magical healing takes the character's hit point total to half or more of their maximum hit points, they lose the **weak** condition as well. A long rest or _any_ successful healing during a short rest will also remove the **weak** condition.
+
+### Weak
+
+* A weak creature has disadvantage on attack rolls and ability checks.
+* The creature's speed is halved.
+* The creature may not take reactions.
+
+A character must start a short rest with at least 1 hit point to benefit from the short rest. The 1d4 hours of being **stable** have to run their course before their short rest starts, unless magical healing is provided.
+
+## Wait Your Turn
+
+No matter how your group determines initiative, you can apply **Speed Factor** for more intense (and gritty) action. (DMG 270-271). This requires coordination between the GM and party. A character who has a creature size modifier should always apply it to their roll. Characters who wish to take actions with a positive bonus should include that in their declared roll. If, when the character's turn comes, the character decides to do something with a worse modifier, they wait until their turn would normally come. Apply negative factors (not creature size) modifiers only to resolving the action, not to when it is declared. For example, a medium-sized character with a +0 dexterity bonus who rolls a 12 and wants to attack with a heavy weapon would declare the attack at initiative 12, but it would not resolve until initiative 10. This creates more of a to-and-fro in the combat that takes character action choices into consideration. If two characters declared actions on different initiative steps, but resolve them on the same step, the character who declared at the higher step resolves their action first. Otherwise, actions resolve at the same step simultaneously.
 
 # True Grit
+
+In this section we test the limits of how far we're willing to go in the name of grit. There is no turning back from this desert. Grit is our new goddess of death. All praise be to Grit.
+
+Under the current SRD, mid-to-high-level combats frequently turn into carnivals of grinding in which participants are trading relatively small amounts of damage after the initial strikes. What should be exciting combats turn into marathons of wash, rinse, and repeat actions.
