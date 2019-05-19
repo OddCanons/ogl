@@ -80,17 +80,17 @@ When creating a character, choose your race and then roll 4D6, dropping the lowe
 
 # True Grit
 
-Now we test the limits of how far we're willing to go in the name of grit. There is no turning back from this desert. Grit is our new goddess of death. All praise (and hit points) be to Grit.
+Now we test the limits of how far we're willing to go in the name of grit. Once we go here, there is no turning back from this desert. Grit is our new goddess of death. All praise (and hit points) be to Grit.
 
 Under the current SRD, mid-to-high-level combats frequently turn into carnivals of grinding in which participants are trading relatively small amounts of damage after the initial strikes. What should be exciting combats turn into marathons of wash, rinse, and repeat actions. The hit point abstraction loses meaning as characters exchange relative paper cuts until hands are blistered from erasing and writing numbers and dice are worn down to smooth spheres. This section presents an alternative in which hit points do not keep up with the damage escalation in the game. Combats are expected to be quick and ferocious, with small advantages quickly leading to overwhelming victories.
 
 ## PC Hit Points
 
 ### Early Hit Points
-PCs starting hit points are the same as in the SRD. They are gaines as in the SRD through 3rd level.
+PCs starting hit points are the same as in the SRD. Through 3rd level characters gain hit points by rolling their regular hit dice as described in the SRD. This is meant to go along with the idea that most characters are still rapidly developing and improving until the settle into a specialization at 3rd level.
 
 ### Later Levels
-After that they gain them at a slower rate than is described in the rules. For each level gained, the character gains hit points based on the hit dice used by their SRD class.
+_After_ 3rd level PCs gain hit points at a slower rate than is described in the rules. For each level gained, the character gains hit points based on the hit dice used by their SRD class.
 
 | Hit Dice | Hit Points Gained Per Level |
 | -------- | --------------------------- |
@@ -102,13 +102,13 @@ After that they gain them at a slower rate than is described in the rules. For e
 ### Constitution Bonuses
 Constitution bonuses are also applied at a slower rate after 3rd level. Instead of adding the Constitution bonus at each level, use the bonus to determine when to add or subtract hit points to or from those that would normally be gained at each level. A character may never lose hit points (current or maximum) as a result of advancing. For example, a sorcerer with a low Constitution could not lose a hit point for advancing to 5th level.
 
-| Constitution Bonus | Level 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | ... |
-| ------------------ | ------- | - | - | - | - | - | - | - | -- | -- | -- | -- |
+| Constitution Bonus | Level&nbsp;4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | ... |
+| ------------------ | -------: | -: | -: | -: | -: | -: | -: | -: | --: | --: | --: | --: |
 | -5                 |   -1    | -1 | -1 | -1 | -1 |  |  |  |  |  |  |  |
-| -4                 |       | -1 | -1 | -1 | -1 |  |  |  |  |  |  |  |
-| -3                 |       |  | -1 | -1 | -1 |  |  |  |  |  |  |  |
-| -2                 |       |  |  | -1 | -1 |  |  |  |  |  |  |  |
-| -1                 |       |  |  |  | -1 |  |  |  |  |  |  |  |
+| -4                 |   -1    | -1 | -1 | -1 |  |  |  |  |  |  |  |  |
+| -3                 |   -1    | -1 | -1 |  |  |  |  |  |  |  |  |  |
+| -2                 |   -1    | -1 |  |  |  |  |  |  |  |  |  |  |
+| -1                 |   -1    |  |  |  |  |  |  |  |  |  |  |  |
 | +0                 |       |  |  |  |  |  |  |  |  |  |  |  |
 | +1                 |   +1    |  |  |  |  |  |  |  |  |  |  |  |
 | +2                 |   +1    | +1 |  |  |  |  |  |  |  |  |  |  |
@@ -123,8 +123,69 @@ Constitution bonuses are also applied at a slower rate after 3rd level. Instead 
 
 ### Examples
 
+It's easiest to illustrate the effects of the true grit hit points rules for PCs with four examples. In each of these examples, we assume average rolls for hit dice when rolling.
 
+* Wizard with Con 9
+* Cleric with Con 12
+* Paladin with Con 16
+* Barbarian with Con 20
 
-## NPC and Monster Hit Points
+| Level | SRD Wizard | Grit Wizard |
+| -----: | ----------: | -----------: |
+| 1 | 5 | 5 |
+| 2 | 7 | 7 |
+| 3 | 10 | 10 |
+| 4 | 14 | 10 |
+| 5 | 17 | 10 |
+| 6 | 21 | 11 |
+| 7 | 24 | 11 |
+| 8 | 28 | 12 |
+| 9 | 31 | 12 |
+| 10 | 34 | 13 |
+
+| Level | SRD Cleric | Grit Cleric |
+| -----: | ----------: | -----------: |
+| 1 | 9 | 9 |
+| 2 | 14 | 14 |
+| 3 | 20 | 20 |
+| 4 | 25 | 22 |
+| 5 | 31 | 23 |
+| 6 | 36 | 24 |
+| 7 | 42 | 25 |
+| 8 | 47 | 26 |
+| 9 | 53 | 27 |
+| 10 | 58 | 28 |
+
+| Level | SRD Paladin | Grit Paladin |
+| -----: | -----------: | ------------: |
+| 1 | 13 | 13 |
+| 2 | 21 | 21 |
+| 3 | 30 | 30 |
+| 4 | 38 | 33 |
+| 5 | 47 | 36 |
+| 6 | 55 | 39 |
+| 7 | 64 | 41 |
+| 8 | 82 | 43 |
+| 9 | 91 | 45 |
+| 10 | 99 | 47 |
+
+| Level | SRD Barbarian | Grit Barbarian |
+| -----: | -------------: | --------------: |
+| 1 | 17 | 17 |
+| 2 | 28 | 28 |
+| 3 | 40 | 40 |
+| 4 | 51 | 44 |
+| 5 | 63 | 48 |
+| 6 | 74 | 52 |
+| 7 | 86 | 56 |
+| 8 | 97 | 60 |
+| 9 | 109 | 63 |
+| 10 | 120 | 66 |
+
+### Multiclassing
+
+Once a character's total levels sum to 3, any future advancement in a class follows the true grit hit points rules, adding the smaller amount based on the hit die of the class level gained.
+
+## Monster Hit Points
 
 
