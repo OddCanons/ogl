@@ -98,6 +98,7 @@ _After_ 3rd level PCs gain hit points at a slower rate than is described in the 
 | D8 | 1 |
 | D10 | 2 |
 | D12 | 3 |
+| D20 | 4 |
 
 ### Constitution Bonuses
 Constitution bonuses are also applied at a slower rate after 3rd level. Instead of adding the Constitution bonus at each level, use the bonus to determine when to add or subtract hit points to or from those that would normally be gained at each level. A character may never lose hit points (current or maximum) as a result of advancing. For example, a sorcerer with a low Constitution could not lose a hit point for advancing to 5th level.
@@ -188,4 +189,28 @@ Once a character's total levels sum to 3, any future advancement in a class foll
 
 ## Monster Hit Points
 
+There are several possible approaches to scaling monster (and NPC) hit points with character hit points in this model based on hit dice or challenge rating. The simplest is to follow the same approach as for the characters, based on the number and type of hit dice the monster uses.
 
+1. If the monster has fewer than 3 hit dice, use the hit points as printed.
+1. If the monster has more than 3 hit dice:
+    1. Multiply the expected average roll for the hit dice plus the constitution modifier by 3. Round up.
+    1. Add the monster's constitution modifier again. (This isn't quite how PCs work.)
+    1. Look up the number of hit points to add for the hit die type and multiply that number by the number of the hit dice the monster has minus 3. Add that to the running hit points.
+
+As an example we can use a Bugbear. (SRD 269)
+
+1. It has more than 3 hit dice:
+    1. 4.5 + 1 -> 5.5 * 3 -> 16.5 -> 17
+    1. 17 + 1 -> 18
+    1. 18 + (2 * 1) -> 20
+
+Or something bigger like an ancient green dragon. (SRD 287-288)
+
+1. It has more than 3 hit dice:
+    1. 10.5 + 7 -> 17.5 * 3 -> 52.5 -> 53
+    1. 53 + 7 -> 60
+    1. 60 + (19 * 4) -> 136
+
+## Danger
+
+It should be clear from the numbers above that all characters are much more fragile in a true grit world than under the straight SRD rules. Campaigns applying this last tier of grit favor strategic parties that plan before jumping into big battles. 
