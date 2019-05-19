@@ -86,7 +86,35 @@ Under the current SRD, mid-to-high-level combats frequently turn into carnivals 
 
 ## PC Hit Points
 
+PCs starting hit points are the same as in the SRD. After that they gain them at a slower rate than is described in the rules. For each level gained, the character gains hit points based on the hit dice used by their SRD class.
 
+| Hit Dice | Hit Points Gained Per Level |
+| -------- | --------------------------- |
+| D6 | 1 every even level gained |
+| D8 | 1 |
+| D10 | 2 |
+| D12 | 3 |
+
+Constitution bonuses are also applied at a slower rate. Instead of adding the Constitution bonus at each level, use the bonus to determine when to add or subtract hit points to or from those that would normally be gained at each level. A character may never lose hit points (current or maximum) as a result of advancing. For example, a sorcerer with a low Constitution could not lose a hit point for advancing to 5th level.
+
+| Constitution Bonus | Level 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| ------------------ | ------- | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| -5                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| -4                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| -3                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| -2                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| -1                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +0                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +1                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +2                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +3                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +4                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +5                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +6                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +7                 |       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| +8                 |   +1    | +1 | +1 | +1 | +1 | +1 | +1 |  |  | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 |  |  |
+| +9                 |   +1    | +1 | +1 | +1 | +1 | +1 | +1 | +1 |  | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 |  |
+| +10                |   +1    | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 | +1 |
 
 ## NPC and Monster Hit Points
 
