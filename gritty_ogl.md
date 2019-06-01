@@ -8,17 +8,17 @@ T.S. Eliot, Preface to Harry Crosby, _Transit of Venus_
 
 Nigel Tufnel, _This is Spinal Tap_
 
-The [Systems Reference Document](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) (SRD) for 5e is a fantastic jumping off point for fantasy roleplay. It leans toward high fantasy, with heroic characters jumping up from even the most grievous of wounds to win the day. Hit points flow back into them as if from a river. Injuries have no permanent effects. Damage is an concept talked about only in abstract units. Sometimes, we desire more grit in a setting, more lasting consequences for the characters, a harder road for them to walk.
+The [Systems Reference Document](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) (SRD) for 5e is a fantastic starting point for fantasy roleplay. It leans toward high fantasy, with heroic characters jumping up from even the most grievous of wounds to win the day. Hit points flow back into them as if from a river. Injuries have no permanent effects. Damage is a concept talked about only in abstract units. Sometimes, we desire more grit in a setting, more lasting consequences for the characters, a harder road for them to walk.
 
-This document describes ways to add more grit to your SRD-based settings. It goes beyond remembering how **Falling** (SRD 86) and **Suffocating** (SRD 86) work to applying first official optional rules and then two levels of house rules to your Open Gaming License (OGL) based games.
+This document describes ways to add more grit to your SRD-based settings. It goes beyond remembering how **Falling** (SRD 86) and **Suffocating** (SRD 86) work to applying, first, official optional rules and then two levels of house rules to your Open Gaming License (OGL) based games.
 
 # A Fistful of Grit
 
-The _Dungeon Masters Guide_ (DMG) (5e) includes several options for raising the grit level in an OGL setting. These include most of the combat options in the back of the book. **Action Options**, **Cleaving Through Creatures**, **Injuries**, and **Massive Damage** form a nice kit for making combat more decisive and the potential effects more permanent. The setting becomes truly gritty when you pull in the **Healing** options and **Rest Variants** to add prerequisites for healing and to slow healing in general. For the right kinds of campaigns, **Fear and Horror**, **Madness**, and use of the **Sanity** score are also thematically gritty.
+The _Dungeon Masters Guide_ (DMG) (5e) introduces several options for raising the grit level in an OGL setting. These include most of the combat options in the back of the book. **Action Options**, **Cleaving Through Creatures**, **Injuries**, and **Massive Damage** form a nice kit for making combat more decisive and the potential effects more permanent. The setting becomes truly gritty when you pull in the **Healing** options and **Rest Variants** to add prerequisites for healing and to slow healing in general. For the right kinds of campaigns, **Fear and Horror**, **Madness**, and use of the **Sanity** score are also thematically gritty.
 
 For dark or survival themed campaigns like _The Curse of Strahd_ or _Tomb of Annihilation_ our group typically adopts all of the following optional rules from the DMG:
 * Roll damage, instead of using average damage. The gritty world is a random world.
-* **Story-Based Advancement** keeps the focus on the narrative and the characters, instead of tracking XP. (DMG 261)
+* **Story-Based Advancement** keeps the focus on the narrative and the characters, instead of counting and tracking XP. (DMG 261)
 * _Some_ of the optional **Healing** rules make healing slower and more difficult. (DMG 266-267)
   * The **Healer's Kit Dependency** is logical and makes equipment more important. (DMG 266)
   * **Slow Natural Healing** "works well for grittier, more realistic campaigns." (DMG 267)
@@ -41,12 +41,12 @@ That's about as far as the official options can take us into a gritty world. We'
 
 ## Skill-based Healing
 
-In addition to the **Healer's Kit Dependency**, a character can't spend any Hit Dice to heal after finishing a short rest, unless someone makes a successful Wisdom (Medicine) check. Only one check is allowed per character wishing to heal per short rest. The check is made with disadvantage if the character is _poisoned_. The DC of the check depends on the current hit points of the character relative to their max hit points.
+In addition to the **Healer's Kit Dependency**, a character can't spend any Hit Dice to heal after finishing a short rest unless someone makes a successful Wisdom (Medicine) check. Only one check is allowed per character wishing to heal per short rest. The check is made with disadvantage if the character is _poisoned_. The DC of the check depends on the current hit points of the character relative to their max hit points.
 
 | Relative Hit Points | DC of Wisdowm (Medicine) Check |
 | ------------------- | -------------------- |
-| >= 1/2 | 10 |
-| < 1/2 | 15 |
+| >= 1/2 Max HP | 10 |
+| < 1/2 Max HP | 15 |
 
 ## Skill-based First Aid
 
@@ -58,7 +58,7 @@ If there is no healer's kit available, a character may make a separate Wisdom (S
 
 ## Stable to Weak
 
-If played by the rules, the **stable** condition already provides for much of what is needed for grittier near death outcomes. Unless characters have access to magical or divine healing, there is no way to avoid being unconscious for 1d4 hours before regaining exactly 1 hit point. This rule builds on the **stable** condition to prevent characters from jumping up at full fighting capacity with just a little magical healing while still allowing for major healing effects to result in heroic outcomes.
+If played by the rules, the **stable** condition already provides for much of what is needed for grittier near death outcomes. Unless characters have access to magical or divine healing, there is no way to avoid being unconscious for 1d4 hours before regaining exactly 1 hit point. This rule builds on the **stable** condition to prevent characters from jumping up at full fighting capacity with just a little magical healing, while still allowing for major healing effects to result in heroic outcomes.
 
 A character that is magically healed from 0 hit points loses the **stable** condition, if they had it, and gains the **weak** condition. If that magical healing or later magical healing takes the character's hit point total to half or more of their maximum hit points, they lose the **weak** condition as well. A long rest or _any_ successful healing during a short rest will also remove the **weak** condition.
 
@@ -76,21 +76,21 @@ No matter how your group determines initiative, you can apply **Speed Factor** f
 
 ## Fantasy Genetics
 
-When creating a character, choose your race and then roll 4D6, dropping the lowest die, for each ability score _in order_. You may then swap the values of any two ability scores—you are a hero. After that apply the racial modifiers. You get no other choice over how the ability scores are assigned. The rest of the choices are up to you, including class and background. Make the most of what the gods gave you.
+When creating a character, choose your race and then roll 4D6, dropping the lowest die, for each ability score _in order_. You may then swap the values of any two ability scores—you are a hero after all. After that apply the racial modifiers. You get no other choice over how the ability scores are assigned. The rest of the choices are up to you, including class and background. Make the most of what the gods gave you.
 
 # True Grit
 
-Now we test the limits of how far we're willing to go in the name of grit. Once we go here, there is no turning back from this desert. Grit is our new goddess of death. All praise (and hit points) be to Grit.
+Now we test the limits of how far we're willing to go in the name of grit. Once we go here, there is no turning back from the desert. Grit is our new goddess of death. All praise (and hit points) be to Grit.
 
 Under the current SRD, mid-to-high-level combats frequently turn into carnivals of grinding in which participants are trading relatively small amounts of damage after the initial strikes. What should be exciting combats turn into marathons of wash, rinse, and repeat actions. The hit point abstraction loses meaning as characters exchange relative paper cuts until hands are blistered from erasing and writing numbers and dice are worn down to smooth spheres. This section presents an alternative in which hit points do not keep up with the damage escalation in the game. Combats are expected to be quick and ferocious, with small advantages quickly leading to overwhelming victories.
 
 ## PC Hit Points
 
 ### Early Hit Points
-PCs starting hit points are the same as in the SRD. Through 3rd level characters gain hit points by rolling their regular hit dice as described in the SRD. This is meant to go along with the idea that most characters are still rapidly developing and improving until the settle into a specialization at 3rd level.
+PC's starting hit points are the same as in the SRD. Through 3rd level characters gain hit points by rolling their regular hit dice as described in the SRD. This is meant to go along with the idea that most characters are still rapidly developing and improving until they settle into specializations at 3rd level.
 
 ### Later Levels
-_After_ 3rd level PCs gain hit points at a slower rate than is described in the rules. For each level gained, the character gains hit points based on the hit dice used by their SRD class.
+_After_ 3rd level PCs gain hit points at a much slower rate than is described in the rules. For each level gained, the character gains hit points based on the hit dice used by their SRD class.
 
 | Hit Dice | Hit Points Gained Per Level |
 | -------- | --------------------------- |
@@ -189,7 +189,7 @@ Once a character's total levels sum to 3, any future advancement in a class foll
 
 ## Monster Hit Points
 
-There are several possible approaches to scaling monster (and NPC) hit points with character hit points in this model based on hit dice or challenge rating. The simplest is to follow the same approach as for the characters, based on the number and type of hit dice the monster uses.
+There are several possible approaches to scaling monster (and NPC) hit points with character hit points based on hit dice or challenge rating. The simplest is to follow the same approach as for the characters, based on the number and type of hit dice the monster uses.
 
 1. If the monster has fewer than 3 hit dice, use the hit points as printed.
 1. If the monster has more than 3 hit dice:
